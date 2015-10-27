@@ -1,0 +1,27 @@
+* {
+    font-family: Arial;
+    font-size: 16px;
+}
+
+#mydropdown {
+    background: #ccc;
+    padding: 10px;
+    overflow: hidden;
+    width: 200px;
+    height: 24px;
+    cursor: pointer;
+}
+
+/*.mydropdown_on_css {
+    background: #ccc;
+    padding: 10px;
+    overflow: hidden;
+    width: 200px;
+    height: 24px;
+    cursor: pointer;
+    transition: 0.5s height ease-in;
+}
+
+.mydropdown_on_css:hover {
+  height:200px;
+}*/
